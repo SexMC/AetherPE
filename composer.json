@@ -1,0 +1,19 @@
+{
+    "name": "aetherpe/skyblock",
+    "type": "project",
+    "authors": [
+        {
+            "name": "KingOfTurkey38",
+            "email": "ozomer792@gmail.com"
+        }
+    ],
+    "require": {
+        "cheprasov/php-redis-client": "^1.10",
+        "sof3/await-generator": "^3.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "SOFe\\AwaitStd\\": "src/"
+        }
+    }
+}

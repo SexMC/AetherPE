@@ -1,0 +1,110 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5ae2f881d339ffc0a0fbe272d7e1ca74",
+    "packages": [
+        {
+            "name": "cheprasov/php-redis-client",
+            "version": "1.10.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cheprasov/php-redis-client.git",
+                "reference": "c3594e0bbc8ee1bc2c11c889ce5dfa0d3b8a6f9a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cheprasov/php-redis-client/zipball/c3594e0bbc8ee1bc2c11c889ce5dfa0d3b8a6f9a",
+                "reference": "c3594e0bbc8ee1bc2c11c889ce5dfa0d3b8a6f9a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "require-dev": {
+                "cheprasov/php-extra-mocks": "^1.0.0",
+                "phpunit/phpunit": "4.8.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "RedisClient\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alexander Cheprasov",
+                    "email": "acheprasov84@gmail.com"
+                }
+            ],
+            "description": "Php client for Redis. It is a fast, fully-functional and user-friendly client for Redis, optimized for performance. RedisClient supports the latest versions of Redis starting from 2.6 to 6.0",
+            "homepage": "http://github.com/cheprasov/php-redis-client",
+            "support": {
+                "issues": "https://github.com/cheprasov/php-redis-client/issues",
+                "source": "https://github.com/cheprasov/php-redis-client/tree/v1.10.0"
+            },
+            "time": "2020-06-20T13:05:24+00:00"
+        },
+        {
+            "name": "sof3/await-generator",
+            "version": "3.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SOF3/await-generator.git",
+                "reference": "12e217f1cea371a50d406774cec7ac6dbe7dc209"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SOF3/await-generator/zipball/12e217f1cea371a50d406774cec7ac6dbe7dc209",
+                "reference": "12e217f1cea371a50d406774cec7ac6dbe7dc209",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.3 || ^8.0"
+            },
+            "require-dev": {
+                "composer/package-versions-deprecated": "1.11.99.1",
+                "infection/infection": "^0.18.2 || ^0.20.2",
+                "phpstan/phpstan": "^0.12.84",
+                "phpunit/phpunit": "^9"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "SOFe\\AwaitGenerator\\": "await-generator/src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "SOFe",
+                    "email": "sofe2038@gmail.com"
+                }
+            ],
+            "description": "Use async/await in PHP using generators",
+            "support": {
+                "issues": "https://github.com/SOF3/await-generator/issues",
+                "source": "https://github.com/SOF3/await-generator/tree/3.2.0"
+            },
+            "time": "2022-02-27T12:04:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

@@ -1,0 +1,264 @@
+{
+	"pads": {
+		"farm-to-dessert": {
+			"name": "farm-to-dessert",
+			"from": {
+				"x": 142,
+				"y": 91,
+				"z": -312
+			},
+			"to": {
+				"x": 150,
+				"y": 75,
+				"z": -360
+			}
+		},
+		"dessert-to-farm": {
+			"name": "dessert-to-farm",
+			"from": {
+				"x": 150,
+				"y": 75,
+				"z": -360
+			},
+			"to": {
+				"x": 142,
+				"y": 91,
+				"z": -312
+			}
+		},
+		"farm-to-hub": {
+			"name": "farm-to-hub",
+			"from": {
+				"x": 111,
+				"y": 69,
+				"z": -203
+			},
+			"to": {
+				"x": 79,
+				"y": 71,
+				"z": -185
+			}
+		},
+		"hub-to-farm": {
+			"name": "hub-to-farm",
+			"from": {
+				"x": 79,
+				"y": 71,
+				"z": -185
+			},
+			"to": {
+				"x": 111,
+				"y": 69,
+				"z": -203
+			}
+		},
+		"communism-to-hub": {
+			"name": "communism-to-hub",
+			"from": {
+				"x": -5,
+				"y": 73,
+				"z": -270
+			},
+			"to": {
+				"x": -10,
+				"y": 63,
+				"z": -231
+			}
+		},
+		"hub-to-communism": {
+			"name": "hub-to-communism",
+			"from": {
+				"x": -10,
+				"y": 63,
+				"z": -231
+			},
+			"to": {
+				"x": -5,
+				"y": 73,
+				"z": -270
+			}
+		},
+		"hub-to-cave": {
+			"name": "hub-to-cave",
+			"from": {
+				"x": -164,
+				"y": 72,
+				"z": -163
+			},
+			"to": {
+				"x": -197,
+				"y": 82,
+				"z": -228
+			}
+		},
+		"cave-to-hub": {
+			"name": "cave-to-hub",
+			"from": {
+				"x": -197,
+				"y": 82,
+				"z": -228
+			},
+			"to": {
+				"x": -164,
+				"y": 72,
+				"z": -163
+			}
+		},
+		"cave-to-end": {
+			"name": "cave-to-end",
+			"from": {
+				"x": -386,
+				"y": 118,
+				"z": -261
+			},
+			"to": {
+				"x": -495,
+				"y": 100,
+				"z": -276
+			}
+		},
+		"end-to-cave": {
+			"name": "end-to-cave",
+			"from": {
+				"x": -495,
+				"y": 100,
+				"z": -276
+			},
+			"to": {
+				"x": -386,
+				"y": 118,
+				"z": -261
+			}
+		},
+		"hub-to-forest": {
+			"name": "hub-to-forest",
+			"from": {
+				"x": -225,
+				"y": 72,
+				"z": -16
+			},
+			"to": {
+				"x": -274,
+				"y": 81,
+				"z": -14
+			}
+		},
+		"forest-to-hub": {
+			"name": "forest-to-hub",
+			"from": {
+				"x": -274,
+				"y": 81,
+				"z": -14
+			},
+			"to": {
+				"x": -225,
+				"y": 72,
+				"z": -16
+			}
+		},
+		"forest-to-forest": {
+			"name": "forest-to-forest",
+			"from": {
+				"x": -334,
+				"y": 88,
+				"z": -16
+			},
+			"to": {
+				"x": -328,
+				"y": 81,
+				"z": -16
+			}
+		},
+		"forest-to-forest-2": {
+			"name": "forest-to-forest-2",
+			"from": {
+				"x": -328,
+				"y": 81,
+				"z": -16
+			},
+			"to": {
+				"x": -336,
+				"y": 97,
+				"z": -16
+			}
+		},
+		"forest-to-forest-3": {
+			"name": "forest-to-forest-3",
+			"from": {
+				"x": -354,
+				"y": 88,
+				"z": -13
+			},
+			"to": {
+				"x": -354,
+				"y": 111,
+				"z": -22
+			}
+		},
+		"forest-to-forest-4": {
+			"name": "forest-to-forest-4",
+			"from": {
+				"x": -354,
+				"y": 102,
+				"z": -21
+			},
+			"to": {
+				"x": -354,
+				"y": 88,
+				"z": -13
+			}
+		},
+		"forest-to-forest-5": {
+			"name": "forest-to-forest-5",
+			"from": {
+				"x": -372,
+				"y": 102,
+				"z": -20
+			},
+			"to": {
+				"x": -380,
+				"y": 119,
+				"z": -20
+			}
+		},
+		"forest-to-forest-6": {
+			"name": "forest-to-forest-6",
+			"from": {
+				"x": -378,
+				"y": 109,
+				"z": -20
+			},
+			"to": {
+				"x": -372,
+				"y": 102,
+				"z": -20
+			}
+		},
+		"forest-to-forest-7": {
+			"name": "forest-to-forest-7",
+			"from": {
+				"x": -407,
+				"y": 109,
+				"z": -29
+			},
+			"to": {
+				"x": -407,
+				"y": 127,
+				"z": -39
+			}
+		},
+		"forest-to-forest-8": {
+			"name": "forest-to-forest-8",
+			"from": {
+				"x": -407,
+				"y": 119,
+				"z": -38
+			},
+			"to": {
+				"x": -407,
+				"y": 109,
+				"z": -29
+			}
+		}
+	}
+}

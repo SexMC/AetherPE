@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.Vending_Machine",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-16, 0, 0],
+							"size": [16, 32, 16],
+							"uv": {
+								"north": {"uv": [10, 0], "uv_size": [-4, 1]},
+								"east": {"uv": [16, 0], "uv_size": [-4, 16]},
+								"south": {"uv": [4, 0], "uv_size": [8, 15]},
+								"west": {"uv": [4, 0], "uv_size": [-3, 16]},
+								"up": {"uv": [10, 1], "uv_size": [-4, -1]},
+								"down": {"uv": [9, 16], "uv_size": [-3, -1]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

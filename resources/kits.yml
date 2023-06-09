@@ -1,0 +1,1233 @@
+---
+kits:
+  §f§lTraveler: # must be lowercase
+    items:
+      helmet:
+        id: 306
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Helmet"
+        enchants: []
+        nbt: []
+        lore: []
+      chest:
+        id: 307
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Chestplate"
+        enchants: []
+        nbt: []
+        lore: []
+      leg:
+        id: 308
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Leggings"
+        enchants: []
+        nbt: []
+        lore: []
+      boots:
+        id: 309
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Boots"
+        enchants: []
+        nbt: []
+        lore: []
+      sword:
+        id: 267
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Sword"
+        enchants: []
+        nbt: []
+        lore: []
+      pick:
+        id: 257
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Pickaxe"
+        enchants: []
+        nbt: []
+        lore: []
+      axe:
+        id: 258
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Axe"
+        enchants: []
+        nbt: []
+        lore: []
+      shovel:
+        id: 256
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Shovel"
+        enchants: []
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 1
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§f§lTraveler Bow"
+        enchants: []
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §e§lSinon: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§e§lSinon Helmet"
+        enchants: []
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§e§lSinon Chestplate"
+        enchants: []
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§e§lSinon Leggings"
+        enchants: []
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§e§lSinon Boots"
+        enchants: []
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§e§lSinon Sword"
+        enchants: []
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§e§lSinon Pickaxe"
+        enchants: []
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§e§lSinon Axe"
+        enchants: []
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§e§lSinon Shovel"
+        enchants: []
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 4
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§e§lSinon Bow"
+        enchants:
+          19:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §3§lTroje: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§3§lTroje Helmet"
+        enchants:
+          0:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§3§lTroje Chestplate"
+        enchants:
+          0:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§3§lTroje Leggings"
+        enchants:
+          0:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§3§lTroje Boots"
+        enchants:
+          0:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§3§lTroje Sword"
+        enchants:
+          9:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§3§lTroje Pickaxe"
+        enchants:
+          15:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§3§lTroje Axe"
+        enchants:
+          15:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§3§lTroje Shovel"
+        enchants:
+          15:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 8
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§3§lTroje Bow"
+        enchants:
+          19:
+            level: 1
+          17:
+            level: 1
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §2§lHydra: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§2§lHydra Helmet"
+        enchants:
+          0:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§2§lHydra Chestplate"
+        enchants:
+          0:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§2§lHydra Leggings"
+        enchants:
+          0:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§2§lHydra Boots"
+        enchants:
+          0:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§2§lHydra Sword"
+        enchants:
+          9:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§2§lHydra Pickaxe"
+        enchants:
+          15:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§2§lHydra Axe"
+        enchants:
+          15:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§2§lHydra Shovel"
+        enchants:
+          15:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 16
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§2§lHydra Bow"
+        enchants:
+          19:
+            level: 2
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §l§dTheseus: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Helmet"
+        enchants:
+          0:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Chestplate"
+        enchants:
+          0:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Leggings"
+        enchants:
+          0:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Boots"
+        enchants:
+          0:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Sword"
+        enchants:
+          9:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Pickaxe"
+        enchants:
+          15:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Axe"
+        enchants:
+          15:
+            level: 3
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Shovel"
+        enchants:
+          15:
+            level: 3
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 24
+        name: "DEFAULT"
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§l§dTheseus Bow"
+        enchants:
+          19:
+            level: 2
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §l§6Aurora: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Helmet"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Chestplate"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Leggings"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Boots"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Sword"
+        enchants:
+          9:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Pickaxe"
+        enchants:
+          15:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Axe"
+        enchants:
+          15:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Shovel"
+        enchants:
+          15:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 56
+        name: "DEFAULT"
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§l§6Aurora Bow"
+        enchants:
+          19:
+            level: 4
+          17:
+            level: 2
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §l§bAether: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§l§bAether Helmet"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§b§lAether Chestplate"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§l§bAether Leggings"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§l§bAether Boots"
+        enchants:
+          0:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§l§bAether Sword"
+        enchants:
+          9:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§l§bAether Pickaxe"
+        enchants:
+          15:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§l§bAether Axe"
+        enchants:
+          15:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§l§bAether Shovel"
+        enchants:
+          15:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§l§bAether Bow"
+        enchants:
+          19:
+            level: 4
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §c§lYou§fTuber: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Helmet"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Chestplate"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Leggings"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Boots"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Sword"
+        enchants:
+          9:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Pickaxe"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Axe"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Shovel"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§c§lYou§fTuber Bow"
+        enchants:
+          19:
+            level: 5
+          17:
+            level: 5
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §l§bAether§3+: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Helmet"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Chestplate"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Leggings"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Boots"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Sword"
+        enchants:
+          9:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Pickaxe"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Axe"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Shovel"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 3
+        nbt: []
+        lore: []
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: []
+        lore: []
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Bow"
+        enchants:
+          19:
+            level: 5
+          17:
+            level: 5
+        nbt: []
+        lore: []
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+  §l§5Astronomical: # must be lowercase
+    items:
+      helmet:
+        id: 310
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Helmet"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      chest:
+        id: 311
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Chestplate"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      leg:
+        id: 312
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Leggings"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      boots:
+        id: 313
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Boots"
+        enchants:
+          0:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      sword:
+        id: 276
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Sword"
+        enchants:
+          9:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      pick:
+        id: 278
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Pickaxe"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      axe:
+        id: 279
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Axe"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      shovel:
+        id: 277
+        meta: 0
+        count: 1
+        name: "§l§5Astronomical Shovel"
+        enchants:
+          15:
+            level: 5
+          17:
+            level: 4
+        nbt: [ ]
+        lore: [ ]
+      food:
+        id: 364
+        meta: 0
+        count: 64
+        name: "DEFAULT"
+        enchants:
+        nbt: [ ]
+        lore: [ ]
+      golden_apple:
+        id: 322
+        meta: 0
+        count: 128
+        name: "DEFAULT"
+        enchants:
+        nbt: [ ]
+        lore: [ ]
+      bow:
+        id: 261
+        meta: 0
+        count: 1
+        name: "§l§bAether§3+ Bow"
+        enchants:
+          19:
+            level: 5
+          17:
+            level: 5
+        nbt: [ ]
+        lore: [ ]
+      arrow:
+        id: 262
+        meta: 0
+        count: 64
+...

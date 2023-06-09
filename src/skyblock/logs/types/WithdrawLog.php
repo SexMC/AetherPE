@@ -1,0 +1,20 @@
+<?php
+
+declare(strict_types=1);
+
+namespace skyblock\logs\types;
+
+use pocketmine\player\Player;
+use skyblock\logs\Log;
+
+class WithdrawLog extends Log {
+
+	public function __construct(Player $player, int $amount){
+		$this->data["player"] = $player->getName();
+		$this->data["amount"] = $amount;
+	}
+
+	public function getType() : string{
+		return "money_withdraw";
+	}
+}
